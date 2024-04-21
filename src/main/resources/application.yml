@@ -1,0 +1,10 @@
+server:
+  port: 7000
+
+#For Default Security
+#spring:
+#  security:
+#    user:
+ #     name: Raghav
+  #    password: Password*8
+
